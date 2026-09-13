@@ -205,19 +205,19 @@ const expenseItems = document.querySelectorAll(".expense-item");
 
 const savingChartData = {
   Month: {
-    total: "$25,267<span>.50</span>",
+    total: "₹2,52,670<span>.00</span>",
     labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
     values: [0.2, 2.8, 2.7, 6.95, 5.8, 6.9],
     activeIndex: 3
   },
   Quarter: {
-    total: "$74,820<span>.90</span>",
+    total: "₹7,48,200<span>.00</span>",
     labels: ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"],
     values: [0.8, 2.6, 4.1, 6.7, 5.9, 7.3],
     activeIndex: 3
   },
   "Half Year": {
-    total: "$148,450<span>.80</span>",
+    total: "₹14,84,500<span>.00</span>",
     labels: ["H1", "H2", "H3", "H4", "H5", "H6"],
     values: [0.5, 2.1, 3.8, 6.4, 5.5, 6.8],
     activeIndex: 3
