@@ -1,176 +1,76 @@
-<img width="1280" height="800" alt="Black-ai (1)" src="https://github.com/user-attachments/assets/42ff5dcb-542b-41dc-b1b6-2a62250b18fd" />
+# Paramdrishti Private Limited — Official Website
 
-<div align="center">
-
-# Black.ai — Premium AI SaaS Website Template
-
-**A responsive, dark-themed frontend website built for AI platforms, SaaS products, and technology startups.**
+**Paramdrishti Private Limited** is an Indian technology company specializing in Artificial Intelligence (AI) solutions, business process automation, enterprise software engineering, cloud computing, and IT consultancy.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-2ea44f?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dulcet-empanada-eca02a.netlify.app/)
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha/BlackAi_Website)
-
-</div>
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
 
 ---
 
-## Overview
+## 🏢 Corporate & Statutory Identification
 
-**Black.ai** is a fully-built, multi-page frontend website designed for modern AI platforms, SaaS products, and technology-driven brands. It combines a premium dark UI, structured content architecture, and smooth interactive elements to deliver a credible, production-ready digital presence — built entirely with vanilla HTML, CSS, and JavaScript, with no framework overhead.
-
-The project includes a landing page, features page, pricing page, blog system, documentation system, legal pages, contact page, changelog, and a custom 404 page — making it a complete starting point for SaaS and product-focused websites.
-
----
-
-## Key Features
-
-- Premium dark-themed, fully responsive design (desktop, tablet, mobile)
-- Animated hero section with interactive dashboard-style visuals
-- Reveal-on-scroll animations and smooth UI transitions
-- Interactive dropdown navigation with mobile menu support
-- Dynamic feature showcase with tabbed content switching
-- Testimonials, partner logo marquee, and stats sections
-- Complete pricing section with conversion-focused layout
-- Blog listing and blog details pages
-- Documentation and documentation details system
-- Contact page with interactive form UI
-- Privacy Policy, Terms & Conditions, and Changelog pages
-- Custom 404 error page
-- SEO-ready page structure with meta tags and Open Graph support
-- Clean, reusable, section-based component architecture
-
----
-
-## Technology Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-| Technology | Purpose |
+| Detail | Particulars |
 |---|---|
-| **HTML5** | Semantic page structure and markup |
-| **CSS3** | Custom styling, layout, and responsive design (no CSS framework) |
-| **JavaScript (Vanilla)** | Navigation, interactivity, dynamic UI behavior |
-
-The project intentionally avoids heavy frameworks to keep performance high, customization simple, and the codebase easy to maintain.
-
----
-
-## Dependencies
-
-This project has no build tools or package dependencies (no `npm install` required). It relies on two external resources loaded via CDN:
-
-![Ionicons](https://img.shields.io/badge/Ionicons-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white)
-
-| Dependency | Type | Usage |
-|---|---|---|
-| [Ionicons](https://ionic.io/ionicons) | Icon library (CDN) | UI icons across navigation, cards, and sections |
-| [Google Fonts – Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) | Web font (CDN) | Primary typography |
+| **Legal Entity** | PARAMDRISHTI PRIVATE LIMITED |
+| **Constitution of Business** | Private Limited Company Limited by Shares |
+| **MCA e-MOA SRN** | `1-23743637363` (Form INC-33, Companies Act 2013) |
+| **GSTIN** | `27AAQCP6485P1Z7` (Form GST REG-06) |
+| **Company PAN** | `AAQCP6485P` |
+| **State of Registration** | Maharashtra (ROC Pune / Mumbai) |
+| **Date of Certificate** | 10/02/2026 |
+| **Principal Place of Business** | Sr. No. 11/2A/2, Gadital, Near Vikas Petrol Pump, Hadapsar, Pune, Maharashtra 411028, India |
+| **Official Support Email** | `support@paramdrishti.com` |
+| **Contact Phone** | `+91 755 946 7119` |
+| **Directors** | Akram Yakoob Ali Khan & Amman Khan |
 
 ---
 
-## Project Structure
+## 💻 Services & Business Scope (MCA Clause 3(a))
 
-```
-BlackAi_Website/
-│
-├── index.html
-├── features.html
-├── pricing.html
-├── blog.html
-├── blog-details.html
-├── documentation.html
-├── documentation-details.html
-├── privacy.html
-├── terms.html
-├── contact.html
-├── changelog.html
-├── 404.html
-│
-├── css/
-│   ├── style.css
-│   ├── feature.css
-│   ├── pricing.css
-│   ├── documentation.css
-│   ├── documentation-details.css
-│   ├── blog-details.css
-│   ├── legal.css
-│   ├── contact.css
-│   └── 404-error.css
-│
-├── js/
-│   └── main.js
-│
-└── images/
-    └── website visuals, icons, and illustrations
-```
+Officially chartered under Clause 3(a) of the company's Memorandum of Association:
+
+1. **AI & Artificial Intelligence Solutions**: Designing, developing, deploying, implementing, licensing, maintaining, and providing AI-based solutions, including AI automation systems, intelligent agents, chatbots, virtual assistants, machine learning models, data analytics platforms, robotic process automation (RPA), and cognitive software solutions.
+2. **Business & Workflow Automation**: End-to-end technology services relating to automation of business processes, sales operations, customer support, internal workflows, analytics, reporting, and decision-making through AI-driven software, cloud platforms, and integrated digital systems.
+3. **Software, Web & Mobile App Development**: Designing, developing, hosting, operating, customizing, integrating, and maintaining websites, web applications, mobile applications, digital platforms, and enterprise software solutions, including cloud-native applications and third-party API integrations.
+4. **IT Consulting & Technology Services**: Rendering consultancy, advisory, implementation, training, and support services in artificial intelligence, automation, DevOps, cloud computing, software engineering, digital transformation, data management, and IT infrastructure.
+5. **Research, Innovation & Emerging Technologies**: Undertaking research, innovation, and development in emerging technologies including AI, machine learning, natural language processing (NLP), data science, cloud computing, DevOps, cybersecurity, and commercializing such cutting-edge technologies.
+6. **Managed Services & Infrastructure Operations**: Providing managed services, technical support, 24/7 monitoring, optimization, maintenance, and performance enhancement for AI systems, automation pipelines, software applications, digital platforms, and IT infrastructure.
+7. **Strategic Partnerships & Alliances**: Entering into partnerships, collaborations, licensing arrangements, and strategic alliances with domestic and international entities for development, deployment, marketing, and distribution of software products and digital platforms.
 
 ---
 
-## Getting Started (Run Locally)
+## 🌐 Website Pages
 
-No build tools, package managers, or installation steps are required — this is a static site.
+- **`index.html`**: Homepage with Hero, Partner marquee, Why Choose Paramdrishti, Solutions Hub, Testimonials, FAQ, and Corporate Footer.
+- **`features.html`**: Comprehensive MCA Services portfolio detailing all 7 approved technology domains, capabilities, operational benchmarks, and compliance credentials.
+- **`pricing.html`**: Flexible service engagement tiers and consultation packages.
+- **`contact.html`**: Direct inquiries, support channels, Pune office map embed, and statutory credentials grid.
+- **`blog.html` & `blog-details.html`**: Technology insights, AI automation articles, and engineering updates.
+- **`documentation.html` & `documentation-details.html`**: API documentation, integration guides, and developer resources.
+- **`privacy.html`**: Complete Privacy Policy with legal data controller details.
+- **`terms.html`**: Terms & Conditions and statutory disclosures under Indian jurisdiction.
+- **`changelog.html`**: Platform release notes and service milestones.
+- **`404.html`**: Custom error handling page.
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/NSniha/BlackAi_Website.git
-```
+---
 
-**2. Navigate into the project folder**
-```bash
-cd BlackAi_Website
-```
+## 🚀 Running Locally
 
-**3. Open the project**
-
-Open `index.html` directly in your browser, **or** serve it locally for the best experience (recommended, since some browsers restrict local file access):
+You can run the website using any standard HTTP server:
 
 ```bash
-# Using VS Code
-# Install the "Live Server" extension, then right-click index.html → "Open with Live Server"
+# Using Python 3
+python3 -m http.server 8181
 
-# Or using Python
-python -m http.server 5500
+# Or with Node.js npx
+npx serve .
 ```
 
-Then visit `http://localhost:5500` in your browser.
+Open [http://localhost:8181](http://localhost:8181) in your browser.
 
 ---
 
-## Deployment
-
-The live version is hosted on **Netlify**. Being a static site, it can also be deployed on Vercel, GitHub Pages, or any other static hosting provider by uploading the project files directly.
-
----
-
-## Author
-
-**NSniha**
-Frontend Developer — building landing pages, SaaS UI, and business websites.
-
-- GitHub: [@NSniha](https://github.com/NSniha)
-
----
-
-## License
-
-© NSniha. All rights reserved.
-
-This project is shared publicly for portfolio and reference purposes only. Copying, redistributing, reselling, or using it (in whole or in part) for commercial purposes is **not permitted** without prior written consent.
-
----
-
-<div align="center">
-
-⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
-
-</div>
-
+© Paramdrishti Private Limited. All rights reserved.
