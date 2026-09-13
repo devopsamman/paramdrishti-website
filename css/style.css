@@ -5452,14 +5452,14 @@ button {
     position: relative;
     z-index: 2;
     display: grid;
-    grid-template-columns: 1.25fr 0.9fr 0.9fr 1fr;
-    gap: 40px 48px;
+    grid-template-columns: 1.6fr 1fr 1.2fr;
+    gap: 40px 60px;
     align-items: start;
     padding-bottom: 42px;
 }
 
 .footer-brand {
-    max-width: 255px;
+    max-width: 380px;
 }
 
 .footer-logo {
@@ -5539,8 +5539,8 @@ button {
 ======================= */
 @media (max-width: 1150px) {
     .footer-grid {
-        grid-template-columns: 1.2fr 1fr 1fr 1fr;
-        gap: 36px 24px;
+        grid-template-columns: 1.4fr 1fr 1.2fr;
+        gap: 36px 32px;
     }
 
     .footer-brand p,
